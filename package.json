@@ -1,0 +1,19 @@
+{
+  "name": "algotasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piton13/algotasks.git"
+  },
+  "author": "igorm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piton13/algotasks/issues"
+  },
+  "homepage": "https://github.com/piton13/algotasks#readme"
+}
